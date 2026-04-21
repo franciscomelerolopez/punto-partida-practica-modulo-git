@@ -39,6 +39,14 @@ const OPTIONS: Option[] = [
   //   featureFlag: false,
   // },
 {
+  id: 5,
+  title: "Opción 5",
+  description: "Pull Request",
+  message:
+    "Una Pull Request es una propuesta formal para incorporar cambios de una rama a otra. Permite revisar el código antes de mergear y deja un historial claro de qué se hizo y por qué.",
+  featureFlag: false,
+},
+ { 
   id: 6,
   title: "Opción 6",
   description: "gitignore",
@@ -62,7 +70,7 @@ export default function App() {
           Curso Git
         </div>
         <h1 className="text-5xl font-extrabold text-base-content mb-3">
-          Proyecto <span className="text-primary">Demo</span>
+          Proyecto <span className="text-primary">Demo Francisco Javier Melero López 21 abril 2026</span>
         </h1>
         <p className="text-base-content/50 text-lg max-w-md mx-auto">
           Elige una opción para descubrir un concepto clave de Git.
