@@ -9,6 +9,7 @@
 
 Se crea en otra rama ya que esos cambios son de un "extra" en el software que estamos realizando, ya que en main sólo contendrá código estable y probado, es decir cuando queramos que sea produccion
 ![Captura 3](./capturas/captura3.JPG)
+![Captura 3bis](./capturas/captura3-auxiliar.JPG)
 
 ##Tarea 3. Feature branch B:
 
@@ -21,13 +22,15 @@ Se crea en otra rama ya que esos cambios son de un "extra" en el software que es
 ¿Que revisaste en la pestaña File Changed? En dicha pestaña he revisado que fuera correcto los cambios que voy a realizar y que las lines marcadas en rojo (cambio) /verde(nueva) es lo que quiero que se haga
 ![Captura 4](./capturas/captura4.JPG)
 ![Captura 4bis](./capturas/captura4-auxiliar.JPG)
-
+![Captura 4bis2](./capturas/captura4-auxiliar2.JPG)
 
 
 ## Tarea 5. 
 ![Captura 5](./capturas/captura5.JPG)
 ![Captura 6](./capturas/captura6.JPG)
 ![Captura 7](./capturas/captura7.JPG)
+![Captura 7bis1](./capturas/captura7-auxiliar.JPG)
+![Captura 7bis2](./capturas/captura7-auxiliar2.JPG)
 
 "<<<<<" Significa inicio del conflicto, en este caso en la Opcion3
 "=====" Significa que todo lo que esté por delante de esto significa que es mi cambio y lo que esté detrás de otra reama que está intentando de traer.
@@ -37,6 +40,10 @@ He borrado y he dejado la opción que me interesaba tal y como dice el ejercicio
 
 # Tarea 6
 ![Captura 8](./capturas/captura8.JPG)
+![Captura 8bis](./capturas/captura8-bis.JPG)
+![Captura opcional1](./capturas/capturaopcional-2.JPG)
+![Captura opcional2](./capturas/capturaopcional-2bis.JPG)
+
 
 
 
