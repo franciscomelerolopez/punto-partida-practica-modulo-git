@@ -25,10 +25,10 @@ const OPTIONS: Option[] = [
   {
     id: 3,
     title: "Opción 3",
-    description: "Forks",
+    description: "Flujo profesional",
     message:
       "Un fork es una copia de un repositorio en tu cuenta. Puedes proponer cambios al original mediante un Pull Request.",
-    featureFlag: true,
+    featureFlag: false,
   },
   // Añade aquí la Opción 4 durante la clase:
   // {
@@ -38,6 +38,22 @@ const OPTIONS: Option[] = [
   //   message: 'Escribe aquí el mensaje de la Opción 4.',
   //   featureFlag: false,
   // },
+{
+  id: 5,
+  title: "Opción 5",
+  description: "Pull Request",
+  message:
+    "Una Pull Request es una propuesta formal para incorporar cambios de una rama a otra. Permite revisar el código antes de mergear y deja un historial claro de qué se hizo y por qué.",
+  featureFlag: false,
+},
+ { 
+  id: 6,
+  title: "Opción 6",
+  description: "gitignore",
+  message:
+    "El fichero .gitignore le dice a Git qué ficheros debe ignorar. Úsalo para excluir ficheros de entorno (.env), dependencias (node_modules) y cualquier cosa que no deba estar en el repositorio.",
+  featureFlag: false,
+},
 ];
 
 export default function App() {
@@ -54,7 +70,7 @@ export default function App() {
           Curso Git
         </div>
         <h1 className="text-5xl font-extrabold text-base-content mb-3">
-          Proyecto <span className="text-primary">Demo</span>
+          Proyecto <span className="text-primary">Demo Francisco Javier Melero López 21 abril 2026</span>
         </h1>
         <p className="text-base-content/50 text-lg max-w-md mx-auto">
           Elige una opción para descubrir un concepto clave de Git.
